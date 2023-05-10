@@ -19,6 +19,7 @@
   
 }
 .listaPoke {
-  align-items: center;
+  display: list-item;
+  margin-top: 17px;
 
 }
